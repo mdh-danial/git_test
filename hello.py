@@ -2,6 +2,7 @@
 
 # variables (1st commit)
 name = input("What is your name my friend?")
+name = name.strip()
 
 # conditionals (2nd commit)
 try:
