@@ -25,3 +25,10 @@ for i in range(n):
         print(check_name[i], end="-")
 
 # functions (4th commit)
+def spell(name):
+    n = len(name)
+    for i in range(n):
+        if i == n - 1:
+            print(check_name[i])
+        else:
+            print(check_name[i], end="-")
