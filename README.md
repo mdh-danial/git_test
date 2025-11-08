@@ -34,7 +34,17 @@ Get to know how to use git commands, what they do, and when to call it
     - checkout to branch you want the edit to be merged to
     - run git merge branch name
 
-8. git mamamam
+8. git push
+    - once you have done all the commits, run git push to update the repo on Github
+    - include name of branch you want to update on github
+
+9. git pull
+    - similar to git push except you receive updates of repo from github to your local computer
+
+10. Merge conflicts
+    - when two different commits conflict with eachother
+    - requires user to manually resolve the conflict
+
 
 
 
